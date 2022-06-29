@@ -719,6 +719,7 @@ PlayerSettings:
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
     Android: NORMCORE
+    Standalone: NORMCORE
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
